@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋,je suis Frédérick MASUAMA</h1>
-<h3 align="center">Je suis actuellement en troisième année de licence Mathématiques à Nantes universté</h3>
+<h3 align="center">Je suis actuellement en troisième année de licence Mathématiques à Nantes université</h3>
 
 - 🌱 Actuellement, j'apprends **Scikit-learn sur FUN Mooc**
 
