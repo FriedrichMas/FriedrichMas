@@ -5,7 +5,8 @@
 
 - 📫 Vous pouvez me joindre par mail: **frederickmasuama@gmail.com**
 
-- 📄 Vous trouverez ici mon CV [https://www.canva.com/design/DAGcv2MvnvY/yKYHZThdRm2EY3E46dxdfw/view?utm_content=DAGcv2MvnvY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he2a525ae98](https://www.canva.com/design/DAGcv2MvnvY/yKYHZThdRm2EY3E46dxdfw/view?utm_content=DAGcv2MvnvY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he2a525ae98)
+- 📄 Vous trouverez ici mon CV ![image](https://github.com/user-attachments/assets/87c75648-a7db-41a2-b6ba-08da87e21b59)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
