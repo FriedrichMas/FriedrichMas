@@ -8,6 +8,8 @@
 - 📄 Vous trouverez icicertains de mes projets:
   1. Modélisation d'un flux thermique dans une plaque en utilisant la méthode des éléments finis et la méthode de Gauss-Seidel:
      https://github.com/FriedrichMas/flux_thermique_MEF
+  2. L'analyse et la modélisation de la dynamique d'une population avec le modèle de Lotka-Volterra (proie-prédateur)
+     https://github.com/FriedrichMas/lotka_volterra 
 
 
 <h3 align="left">Connect with me:</h3>
