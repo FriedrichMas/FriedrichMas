@@ -5,7 +5,9 @@
 
 - 📫 Vous pouvez me joindre par mail: **frederickmasuama@gmail.com**
 
-- 📄 Vous trouverez ici mon CV ![image](https://github.com/user-attachments/assets/87c75648-a7db-41a2-b6ba-08da87e21b59)
+- 📄 Vous trouverez icicertains de mes projets:
+  1. Modélisation d'un flux thermique dans une plaque en utilisant la méthode des éléments finis et la méthode de Gauss-Seidel:
+     https://github.com/FriedrichMas/flux_thermique_MEF
 
 
 <h3 align="left">Connect with me:</h3>
